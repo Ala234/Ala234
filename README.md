@@ -1,5 +1,5 @@
 # 💫 About Me:
-A software engineering student, with a concentration in data analytics, searching for summer training opportunities. Interested in the diverse applications of software and exploring data-driven insights through analytics.
+A software engineering student, with a concentration in data analytics. Interested in the diverse applications of software and exploring data-driven insights through analytics.
 
 
 ## 🌐 Socials:
